@@ -26,6 +26,27 @@
         "server":"19",
         "discord_id":325462000681484298,
         "tele_id":0
+    },
+    {
+        "email":"nhnebaru003@gmail.com",
+        "password":"passwordnhne",
+        "server":"1",
+        "discord_id":325462000681484298,
+        "tele_id":0
+    },
+    {
+        "email":"nhnebaru004@gmail.com",
+        "password":"passwordnhne",
+        "server":"1",
+        "discord_id":325462000681484298,
+        "tele_id":0
+    },
+    {
+        "email":"nhnebaru005@gmail.com",
+        "password":"passwordnhne",
+        "server":"1",
+        "discord_id":325462000681484298,
+        "tele_id":0
     }
 ]
 
